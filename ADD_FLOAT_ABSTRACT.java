@@ -2,7 +2,7 @@ abstract class ADD
 {
     abstract void SUM();
 }
-public class ADD_FLOAT extends ADD
+public class ADD_FLOAT_ABSTRACT extends ADD
 {
     public void SUM()
     {
